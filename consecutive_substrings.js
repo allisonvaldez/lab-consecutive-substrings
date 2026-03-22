@@ -1,5 +1,17 @@
+// Task 3: Coding and Debugging
 function consecutiveSubstrings(string) {
-  // type your code here
+  let substrings = [];
+
+  /*
+  Task 4: Determining Big O looping elements.
+  */
+  for
+  // Task 5: Comment and Document
+
+
+  // Create a new file called solution.txt.
+  // Within this file, add a short description of the solution and how it works.
+  // Add the time complexity of the solution.
 }
 
 if (require.main === module) {
